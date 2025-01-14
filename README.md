@@ -20,4 +20,16 @@
 - use Github [GraphQL explorer](https://developer.github.com/v4/explorer) to practice.
 
 
-## Module 4 - Why GraphQL? :
+## Module 5 - GraphQL Ecosystem and tooling :
+![image](https://github.com/user-attachments/assets/d117f67f-8529-4aea-99c8-5d6875a57313)
+GraphQL Client benefits:
+![image](https://github.com/user-attachments/assets/179253df-3f8c-4912-a2a2-2796a4debf2f)
+GraphQL Server components:
+![image](https://github.com/user-attachments/assets/513c14b5-cfb6-4062-830b-90bafaf2041d)
+
+![image](https://github.com/user-attachments/assets/29f4d046-e758-4503-97ab-dc30a4b12d57)
+
+
+![image](https://github.com/user-attachments/assets/e5bc1097-32eb-4aa9-9997-6ccea505dc1c)
+
+
